@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -18,7 +17,7 @@
   <div class="hero"></div>
 
   <section class="section" id="produk">
-    <h2>Katalog Baju</h2>
+    <h2>374 T-Shirt</h2>
     <div class="products">
       <div class="product">
         <img src="https://imgur.com/ZnuFPgK.jpg" alt="Baju 1" />
